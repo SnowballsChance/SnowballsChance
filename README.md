@@ -1,4 +1,4 @@
-
+I have assembled some code - here and there but more recently I have discovered 3D printing and OpenSCAD and have since discovered Git. So far seems like a good match.
 
 
 <!---
